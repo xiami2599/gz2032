@@ -1,0 +1,160 @@
+#one{
+				width: 1200px;
+				height: 220px;
+				background: url(../img/listhotlogo.jpg);
+				margin: auto;
+			}
+			#one a{
+				display: block;
+				width: 485px;
+				height: 79px;
+				margin: auto;
+				position: relative;
+				top: 127px;
+				left: -2px;
+			}
+			li{
+				list-style: none;
+				text-align: center;
+			}
+			a{
+				text-decoration: none;
+				color: black;
+				font-size: 14px;
+				font-family: "微软雅黑";
+			}
+			a:hover{
+				color: orangered;
+			}
+			#two{
+				width: 1200px;
+				height: 50px;
+				margin: 10px auto ;
+				border: 1px solid #F1F1F1;
+			}
+			#two ul li{
+				width: 75px;
+				float: left;
+			}
+			#three{
+				width: 1216px;
+				height: 250px;
+				margin: 30px auto;
+				font-family: arial;
+			}
+			#three ul li{
+				width: 390px;
+				height: 224px;float: left;
+				border: #F1F1F1 1px solid;
+			}
+			#three ul li:hover{
+				border: 1px solid red;
+			}
+			#three .top{
+				width: 40px;
+				height: 75px;
+				position: relative;
+				left: 300px;
+				top: -20px;
+			}
+			#three ul li .zuo{
+				width: 200px;
+				height: 200px;
+				position: relative;
+				top: -65px;
+				left: 10px;
+			}
+			#three .you{
+				width: 170px;
+				height: 150px;
+				float: right;
+				position: relative;
+				top: -220px;
+			}
+			
+			#four{
+				width: 1280px;
+				height: 750px;
+				margin: auto;
+			}
+			#four ul li{
+				width: 225px;
+				height: 350px;
+				border: #F1F1F1 1px solid;
+				float: left;
+				margin: 0px 0px 25px 19px;
+				position: relative;
+				left: -25px;
+			}
+			#four ul li:hover{
+				border: #fe2e54 1px solid;
+			}
+			#four ul li .tupian{
+				width: 224px;
+				height: 224px;
+			}
+			#four ul li .beijin{
+				width: 225px;
+				height: 29px;
+				background: url(img/beijin.jpg) no-repeat;
+				background-size: 225px;
+				line-height: 29px;
+				text-align: left;
+				position: relative;
+				top: -30px;
+			}
+			#four ul li .yugou{
+				width: 140px;
+				height: 20px;
+				font-size: 13px;
+				line-height: 20px;
+				color: #fe2e54;
+				margin: -35px auto;
+				background-color: bisque;
+				font-family: arial;
+			}
+			#four ul li .daoshoujia{
+				width: 120px;
+				height: 30px;
+				font-size: 13px;
+				color: red;
+				font-family: arial;
+				position: relative;
+				top: 35px;
+			}
+			#four ul li .top{
+				display: block;
+				width: 35px;
+				height: 24px;
+				background-color: #FF6255;
+				color: white;
+				font-size: 18px;
+				position: absolute;
+				left: 0px;
+				top: 0px;
+			}
+			
+			#five{
+				width: 50px;
+				height: 240px;
+				position: fixed;
+				right: 225px;
+				bottom: 80px;
+			}
+			#five ul li{
+				width: 50px;
+				height: 60px;
+				float: left;
+				color: #F1F1F1;
+				border: #F1F1F1 1px solid;
+			}
+			#five ul li img{
+				position: relative;
+				top: 10px;
+			}
+			#five ul li p{
+				color: black;
+			}
+			#five ul li:hover{
+				background-color: #F1F1F1;
+			}

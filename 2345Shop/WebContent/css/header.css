@@ -1,0 +1,16 @@
+	
+		*{margin: 0px; padding: 0px;}
+		#header{width: 1200px;height: 140px;margin: auto;}
+		.left{width: 220px;height: 90px;background: url(../img/logo.png) no-repeat;margin-left: 70px;margin-top: 7px;}
+		.center{margin-top: 25px;}
+		.f_l{float: left;}
+		.ssk{width: 415px; height: 36px;border: 2px solid #FE2E54;padding: 0 40px 0 15px;}
+		.ssan{width: 100px; height: 40px; background-color: #FE2E54;border: none;outline:none;font-size: 20px; color: white;}
+		.right{margin-top: 20px;margin-left: 60px;}
+		.right img{width: 220px; height: 60px;}
+		.li_list{width: 1349px;height: 35px;background-color: #FE2E54;}
+		ul{margin-left: 0px;}
+		ul li{list-style: none;float: left;line-height: 35px;padding: 0 50px 0 50px; }
+		a{text-decoration: none;color: white;}
+		ul li:hover{background-color: #E41E43;cursor: pointer;}
+		.ssan:hover{background-color: #E41E43;cursor: pointer;}

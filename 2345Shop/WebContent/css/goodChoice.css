@@ -1,0 +1,250 @@
+a {
+				text-decoration: none;
+				color: black;
+			}
+			
+			.a {
+				width: 1200px;
+				height: 40px;
+				margin: auto;
+				font-size: 12px;
+				line-height: 30px;
+			}
+			
+			i {
+				font-size: 15px;
+				color: darkgray;
+			}
+			
+			l {
+				color: red;
+			}
+			
+			.a a {
+				text-decoration: none;
+				color: black;
+			}
+			
+			.a a:hover {
+				color: red;
+			}
+			
+			#cat-list {
+				display: block;
+				background: #fff;
+				width: 1200px;
+				height: 50px;
+				line-height: 50px;
+				border: 1px solid rgba(241, 241, 241, 1);
+				margin: auto;
+			}
+			
+			#cat-list .cat-lit-title {
+				float: left;
+				width: 80px;
+				line-height: 50px;
+				color: #999;
+				text-align: center;
+				margin-right: 30px;
+			}
+			
+			#cat-list ul li {
+				list-style: none;
+				float: left;
+				padding: 0 15px;
+				border-left: 1px solid transparent;
+				border-right: 1px solid transparent;
+				position: relative;
+				top: -17px;
+			}
+			
+			#cat-list ul li a {
+				text-decoration: none;
+				color: black;
+				font-size: 12px;
+			}
+			
+			#cat-list ul li a:hover {
+				color: red;
+			}
+			
+			#b {
+				height: 40px;
+				width: 1200px;
+				border: #F1F1F1 1px solid;
+				margin: auto;
+				position: relative;
+				top: 15px;
+				box-sizing: border-box;
+				font-family: "Microsoft YaHei";
+			}
+			
+			#b .b {
+				height: 40px;
+				width: 280;
+				float: left;
+				line-height: 40px;
+				position: relative;
+				top: -15px;
+			}
+			
+			#b .aa {
+				float: left;
+			}
+			
+			#b .b a {
+				display: block;
+				width: 70px;
+				height: 40px;
+				float: left;
+				text-align: center;
+				color: black;
+				border-right: #F1F1F1 1px solid;
+			}
+			
+			#b .b a:hover {
+				color: red;
+			}
+			
+			.fl {
+				width: 700px;
+				position: relative;
+				left: 30px;
+				top: -7px;
+			}
+			
+			.fl input {
+				width: 60px;
+			}
+			
+			.fl button {
+				background: #ff6255;
+				color: white;
+				position: relative;
+				top: -2px;
+				left: 5px;
+			}
+			
+			#san {
+				width: 100px;
+				float: right;
+				position: relative;
+				top: -6px;
+			}
+			
+			#san i {
+				font-family: "黑体";
+				color: red;
+				font-size: 17px;
+			}
+			#c{
+				width: 1200px;
+				height: 40px;
+				margin: auto;
+				position: relative;
+				top: 28px;
+				border: 1px solid #F1F1F1;
+			}
+			#c ul li {
+				list-style: none;
+				float: left;
+				line-height: 8px;
+				padding: 0 15px;
+				position: relative;
+				left: -35px;
+				top: -5px;
+			}
+			
+			#c ul li a:hover{
+				color: red;
+			}
+			#four{
+				width: 1250px;
+				height: 1020px;
+				margin: auto;
+				position: relative;
+				top: 40px;
+			}
+			#four .bainkuang{
+				background:url(../img/biankuang.jpg);
+			}
+			#four ul li{
+				list-style: none;
+				width: 240px;
+				height: 340px;
+				border: 1px solid #F1F1F1;
+				float: left;
+				position: relative;
+				left: -15px;
+			}
+			#four ul li .img{
+				width: 210px;
+				height: 210px;
+				margin: 15px 15px;
+			}
+			#four ul li a{
+				display: block;
+				width: 210px;
+				height: 24px;
+				font-size: 15px;
+				font-family: "微软雅黑";
+				margin: 0px 15px;
+				overflow: hidden;
+			}
+			#four ul li a:hover{
+				color: red;
+			}
+			#four ul li p{
+				width: 210px;
+				height: 15px;
+				margin: 5px 15px;
+			}
+			#four ul li span{
+				font-size: 12px;
+				color: #A9A9A9;
+			}
+			#four ul li .you,.juan{
+				float: right;
+			}
+			
+			#four ul li .zuo{
+				font-size: 24px;
+				line-height: 40px;
+				color: orangered;
+				font-family: arial;
+			}
+			#four ul li .juan{
+				height: 16px;
+				font-size: 14px;
+				line-height: 16px;
+				color: red;
+				border: 1px solid orangered;
+				position: relative;
+				top: 10px;
+			}
+			
+			#five{
+				width: 50px;
+				height: 240px;
+				position: fixed;
+				right: 225px;
+				bottom: 80px;
+			}
+			#five ul li{
+				width: 50px;
+				height: 60px;
+				list-style: none;
+				border: #F1F1F1 1px solid;
+			}
+			#five ul li img{
+				position: relative;
+				top: 10px;
+				left: 13px;
+			}
+			#five ul li p{
+				
+				text-align: center;
+			}
+			#five ul li:hover{
+				background-color: #F1F1F1;
+			}

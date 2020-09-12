@@ -1,0 +1,149 @@
+*{
+	margin: auto;	
+}
+.first{
+	
+	width: 1200px;
+	height: 444px;
+	background-color: coral;
+}
+.first #one img{
+	width: 320px;
+	height: 58px;
+	margin: auto;
+	margin-left: 330px;	
+	margin-top: 58px;
+}
+.first #two #h3{
+	width: 1170px;
+	height: 26px;
+}
+.first #two #h3 img{
+	width: 29px;
+	height: 26px;
+}
+.first #two #h3 #spa{
+	margin-top: 25px;
+	margin-left: 50px;
+}
+.first #two #twoOne{
+	margin-top: 5px;
+	margin-left: 10px;
+	width: 1170px;
+	height: 260px;
+	
+}
+.first #two #twoOne #twoOne1{
+	background-color: beige;
+	width: 185px;
+	height: 250px;
+	float: left;
+	margin-left: 8px;
+	margin-top: 20px;
+}
+.first #two #twoOne #twoOne1 img{
+	width: 175px;
+	height: 160px;
+	margin-left: 5px;
+}
+.first #two #twoOne #twoOne1 img:hover{
+	width: 178px;
+	height: 165px;
+}
+.first #two #twoOne #twoOne1 #jiaGe #jia{
+	font-size:25px;
+	color: red;
+}
+.first #two #twoOne #twoOne1 #jiaGe #feng{
+	font-size:15px;
+	color: red;
+}
+.first #two #twoOne #twoOne1 #text{
+	margin-top: 15px;
+	margin-left: 10px;
+}
+.first #two #twoOne #twoOne1 #text a{
+	color: black;
+	text-decoration: none;
+}
+
+.first #two #twoOne #ha{
+	width: 185px;
+	height: 250px;
+	border: #000000 solid 2px;
+}
+
+.second{
+	width: 1200px;
+	height: 800px;
+	/*background-color: aquamarine;*/
+	margin-top: 20px;
+}
+.second #one #one1{
+	font-weight: bold;
+	color: red;
+	font-size: 30px;
+}
+.second #one #one2{
+	font-size: 20px;
+	font-weight: bold;
+}
+.second #two{
+	margin-top: 5px;
+	height: 30px;
+}
+.second #two a{
+	text-decoration: none;
+	color: black;
+}
+.second #two a:hover{
+	color: red;
+}
+.second #three {
+	width: 230px;
+	height: 330px;
+	/*border: #000000 solid 2px;*/
+	float: left;
+}
+.second #three ul li{
+	list-style: none;
+}
+.second #three #three1{
+	/*width: 240px;
+	height: 340px;*/
+	margin-top: 10px;
+	margin-left: -30px;
+}
+.second #three #three1:hover{
+	color: red;
+		border: red solid 1px;
+}
+.second #three #three1 img{
+	width: 210px;
+	height: 210px;
+}
+.second #three #three1 img:hover{
+	width: 215px;
+	height: 215px;
+	
+}
+.second #three #three1 #three2{
+	margin-top: 9px;
+}
+.second #three #three1 #three3 {
+	font-weight: 100;
+	font-size: 12px;
+	margin-top: 16px;
+	color: darkgray;
+}
+.second #three #three1 #three4{
+	margin-top: 10px;
+	color: red;
+	
+}
+.second #three #three1 #three4 #jia{
+	font-size: 20px;
+}
+.second #three #three1 #three4 #quan{
+	font-size: 12px;
+}

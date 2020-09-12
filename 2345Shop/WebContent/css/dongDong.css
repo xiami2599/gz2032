@@ -1,0 +1,126 @@
+*{
+	margin: 0;
+}
+.con{
+	margin: auto;
+	width: 1200px;
+	height: 1800px;
+}
+/*.con #top{
+	width: 1200px;
+	height: 200px;
+}*/
+ #center #two{
+	width: 1200px;
+	height: 50px;
+	background-color: black;
+	margin:auto;
+	position: relative;
+}
+
+ #center #two ul li{
+	float: left;
+	list-style: none;
+}
+ #center #two  #ulli{
+	width: 220px;
+	height: 50px;
+	color:white;
+	font-size: 18px;
+	cursor: pointer;
+	text-align: center;
+}
+ #center #two #ulli:hover{
+	background-color: aqua;
+}
+
+ #center #three{
+	margin-top: 50px;
+	width: 1200px;
+	 height: 1072px;
+	background-color:gainsboro;
+}
+ #center #three #centerButtom{
+	width: 504px;
+	height: 250px;
+	background-color: red;
+}
+ #center #three #three1{
+	width: 584px;
+	height: 240px;
+	background-color:white;
+	margin-left: 5px;
+	margin-top: 10px;
+	float: left;
+	
+}
+ #center #three #three1:hover{
+	/*   border: #FF0000 0.5px solid; */
+}
+ #center #three #three1 ul li{
+	list-style: none;
+}
+ #center #three #three1 #pic img{
+	width: 220px;
+	height: 220px;
+	margin-top: 18px;
+	margin-left: -20px;
+}
+ #center #three #three1 #pic{
+	float: left;
+}
+ #center #three #three1 #inpic{
+	width: 310px;
+	height: 206px;
+	float: left;
+	margin-top: 24px;
+	margin-left: 12px;
+}
+ #center #three #three1 #inpic #onepic{
+	width: 310px;
+	height: 76px;
+	/*background-color: blue*/
+}
+#center #three #three1 #inpic #twopic{
+	width: 310px;
+	height:30px;
+	margin-top: 50px;
+}
+#center #three #three1 #inpic #twopic #jia{
+	text-shadow: 0 0 2px black;
+}
+ #center #three #three1 #inpic #threpic{
+	width: 310px;
+	height:30px;
+
+}
+ #center #three #three1 #inpic #threpic #threpic1{
+	width: 190px;
+	height: 30px;
+	margin-top: 30px;
+	line-height: 30px;
+	text-align: center;
+	background-color: white;
+	float: left;
+}
+ #center #three #three1 #inpic #threpic #threpic2{
+	width: 120px;
+	height: 30px;
+	background-color: red;
+	margin-top: 30px;
+	line-height: 30px;
+	text-align: center;
+	float: right;
+}
+#center #three #three1 a{
+	
+	color:black;
+	text-decoration: none;
+}
+#center #three #three1 a:hover{
+	
+	color:orange;
+	text-decoration: underline;
+}
+
+
